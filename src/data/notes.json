@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Aktualizace systému",
+    "content": "Plánovaná údržba systému 25.2.2024",
+    "priority": "high",
+    "date": "2024-02-15"
+  },
+  {
+    "id": 2,
+    "title": "Nové kontakty",
+    "content": "Přidány nové kontakty do databáze zákazníků",
+    "priority": "medium",
+    "date": "2024-02-18"
+  }
+] 

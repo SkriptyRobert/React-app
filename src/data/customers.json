@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Aktia",
+    "crp": "Novák Tomáš",
+    "email": "tomas.novak@tietoevry.com",
+    "phone": "+420 123 456 789",
+    "documentation": "https://tietoevry.sharepoint.com/:f:/r/sites/Java_Middleware/Shared%20Documents/OG/Aktia?csf=1&web=1&e=XfaQFz",
+    "restart": "Allowed out of office hours",
+    "notes": "Primary contact for billing issues"
+  },
+  {
+    "id": 2,
+    "name": "NASA",
+    "crp": "CRP-002",
+    "email": "mdads@email.cz",
+    "phone": "+420 987 654 321",
+    "documentation": "https://docs.example.com/customer2",
+    "restart": "Allowed out of office hours",
+    "notes": "Requires weekly maintenance"
+  },
+  {
+    "id": 3,
+    "name": "Porsche",
+    "crp": "CRP-003",
+    "email": "dddd.gggg@email.cz",
+    "phone": "+420 777 888 999",
+    "documentation": "https://docs.example.com/customer3",
+    "restart": "Allowed out of office hours",
+    "notes": "VIP customer - priority support"
+  },
+  {
+    "id": 4,
+    "name": "OZO",
+    "crp": "CRP-004",
+    "email": "sss.hjgk@email.cz",
+    "phone": "+420 666 555 444",
+    "documentation": "https://docs.example.com/customer4",
+    "restart": "Allowed out of office hours",
+    "notes": "New customer since 2024"
+  }
+] 
