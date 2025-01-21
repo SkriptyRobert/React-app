@@ -772,7 +772,7 @@ const App = () => {
           <PhoneIcon>📞</PhoneIcon>
           <PhoneNumber>
             <span>OpenShift oncall</span>
-            +420 597 175 677
+            +420 594 112 655
           </PhoneNumber>
         </PhoneContainer>
       )}
