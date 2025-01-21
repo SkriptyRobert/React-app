@@ -776,7 +776,7 @@ const App = () => {
           </PhoneNumber>
         </PhoneContainer>
       )}
-      <Title>Middleware Crossroad</Title>
+      <Title>TEST</Title>
       <GlobalSearchContainer>
         <GlobalSearchInput
           type="text"
