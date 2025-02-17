@@ -3,9 +3,9 @@
     "id": 1,
     "name": "Aktia",
     "crp": "Novák Tomáš",
-    "email": "tomas.novak@tietoevry.com",
+    "email": "tomas.novak@tooo.com",
     "phone": "+420 123 456 789",
-    "documentation": "https://tietoevry.sharepoint.com/:f:/r/sites/Java_Middleware/Shared%20Documents/OG/Aktia?csf=1&web=1&e=XfaQFz",
+    "documentation": "",
     "restart": "Allowed out of office hours",
     "notes": "Primary contact for billing issues"
   },
